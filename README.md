@@ -20,3 +20,7 @@ IDEA中新建maven项目
 ![](image/捕获6.png)
 
 运行调试
+
+关于SSM的简单URL请求流程
+
+![](image/SSM请求流程.png)
